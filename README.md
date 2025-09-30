@@ -12,7 +12,9 @@ Let's practice `responsive design`
 
 ![pomegranate](./design/desktop.png)
 
-3. Your folder structure should look like
+3. In `index.html` file, you will see some pre-made code. For this challenge, you `CANNOT` add/remove anything to the element `header` or any of its children elements. This means, you can't add any attributes, change class names, etc.
+
+4. Your folder structure should look like
 
 ```text
 .
@@ -26,6 +28,7 @@ Let's practice `responsive design`
 ├── index.html
 ├── .prettierrc
 ├── package.json
+├── node_modules
 ├── pnpm-lock.yaml
 ├── src
 │   ├── assets
@@ -40,9 +43,9 @@ Let's practice `responsive design`
 └── stylelint.config.js
 ```
 
-4. You will see the logo section is already presented to you with two `svg` tags, each surrounded by `div` elements. Do not modify the `svg` in any shape or form.
+5. You will see the logo section is already presented to you with two `svg` tags, each surrounded by `div` elements. Do not modify the `svg` in any shape or form.
 
-5. In this project you can **_ONLY AND MUST_** use:
+6. In this project you can **_ONLY AND MUST_** use:
 
 ```HTML
 <header>
