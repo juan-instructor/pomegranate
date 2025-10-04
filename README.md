@@ -12,7 +12,11 @@ Let's practice `responsive design`
 
 ![pomegranate](./design/desktop.png)
 
-3. In `index.html` file, you will see some pre-made code. For this challenge, you `CANNOT` add/remove anything to the element `header` or any of its children elements. This means, you can't add any attributes, change class names, etc.
+3. In `index.html` file, you will see some pre-made code. For this challenge,
+
+- you `CANNOT` add/remove anything to the element `header` or any of its children elements. This means, you can't add any attributes, change class names, etc.
+- Although I think you need this, the element `div` with class `root` can be changed, modified, or removed.
+- Feel free to author the content in `main`
 
 4. Your folder structure should look like
 
